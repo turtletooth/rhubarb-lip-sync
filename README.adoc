@@ -1,0 +1,3 @@
+= Rhubarb Lip Sync 2
+
+This is very early experimental code for Rhubarb Lip Sync 2.

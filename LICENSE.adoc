@@ -1,0 +1,3 @@
+= License
+
+I haven't chosen a license yet. Copyright 2020 Daniel Wolf.
